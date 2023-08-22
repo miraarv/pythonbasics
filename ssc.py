@@ -1,7 +1,7 @@
 
 print("==========CALCULADORA===========\n \n")
 print("Insira a opção desejada:\n")
-opcao = int(input(" 1:Soma\n 2:Subtração\n 3:Multiplicação\n 4:Divisão\n \nOpção escolhida: "))
+opcao = int(input(" 1:Soma\n 2:Subtração\n 3:Multiplicação\n 4:Divisão\n \nOpção escolhida:"))
 print("================================")
 if (opcao == 1 or opcao == 2 or opcao == 3 or opcao == 4):
         num1 = int(input("\nDigite o primeiro número:\n"))
