@@ -20,5 +20,5 @@ while n!=0:
 np=len(par)
 ni=len(impar)
 
-print("\nQuantidade de números pares: ", np)
+print("\nQuantidade de números pares: ", np)#nao sei se era pra manter contando o zero como numero par
 print("\nQuantidade de números ímpares: ", ni)

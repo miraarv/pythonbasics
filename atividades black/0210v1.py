@@ -16,5 +16,5 @@ while n!=0:
     else:
         impar=impar+1
 
-print("\nQuantidade de números pares: ", par)
+print("\nQuantidade de números pares: ", par)#nao sei se era pra manter contando o zero como numero par
 print("\nQuantidade de números ímpares: ", impar)
