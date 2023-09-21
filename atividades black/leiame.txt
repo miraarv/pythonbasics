@@ -1,0 +1,7 @@
+LEIAME
+Alunos: Maria Clara Ferreira (Exercícios Pares)
+	Wender Ferreira (Exercícios Ímpares)
+
+Quanto a identificação do arquivo, a formatação foi o seguinte:
+ex: 0102v1
+nº lista + nº exercício + versão
